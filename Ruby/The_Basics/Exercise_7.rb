@@ -1,1 +1,0 @@
-# The error is due to incorrect syntax, tried to close bracket with a ) instead of }
