@@ -1,0 +1,1 @@
+#block parameter is missing the & allowing a block to be passed through

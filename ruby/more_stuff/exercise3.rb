@@ -1,0 +1,1 @@
+#Exception handling is how you instruct code to behave when it runs into an error (exception) that you predict can arise. It prevents the code from exiting entirely by giving it a flow control path to continue executing
